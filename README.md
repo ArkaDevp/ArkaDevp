@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in Frontend Development<br>🌱 I’m currently learning Backend with Java<br>💬 Ask me about your needs and i'll help you<br>⚡ I'm from Colombia and i'm 16 years old
+🔭 I’m currently working in Frontend Development<br>🌱 I’m currently learning Backend with Java<br>💬 Ask me about your needs and i'll help you<br>⚡ I'm from Colombia and i'm 18 years old
 
 
 # 💻 Tech Stack:
